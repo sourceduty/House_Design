@@ -1,4 +1,4 @@
-![Cliff Waterfall House Concept](https://github.com/sourceduty/House_Design/assets/123030236/2988fdb8-4aa6-4cb1-aee0-3f6ce462a93c)
+![Modern Waterfall Roof House](https://github.com/sourceduty/House_Design/assets/123030236/777e95ce-46ce-4fb1-8114-e6fa546b4f2d)
 
 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design) specializes in providing comprehensive guidance on enhancing the exterior appearance of homes. It covers various aspects, including color palettes, architectural styles, landscaping concepts, outdoor fixtures, and sustainability practices, focusing solely on exterior design elements. This specialized service offers personalized recommendations based on users' preferences, architectural features, location, and desired atmosphere. House Design also suggests using digital tools for visualization, like architectural visualization software or online design platforms, and promotes eco-friendly design practices. Additionally, it provides advice on maintaining the exterior of homes to ensure they remain beautiful and functional year-round.
 
