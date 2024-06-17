@@ -14,6 +14,10 @@ In addition to design advice, the GPT provides valuable tips on maintaining and 
 ### Related Links
 
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
+<br>
+[Hoouse Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 
 #
 
