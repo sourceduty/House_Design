@@ -23,5 +23,9 @@ In addition to design advice, the GPT provides valuable tips on maintaining and 
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
+#
+
+![Modern Luxury House](https://github.com/sourceduty/House_Design/assets/123030236/7245e548-05ee-4fa8-8879-e806b6fb539c)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
