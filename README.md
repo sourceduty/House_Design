@@ -70,7 +70,7 @@ The Rusty Googie Cottage is more than just an architectural marvel; it is a test
 <br>
 [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 <br>
-[Hoouse Manufacturing](https://github.com/sourceduty/House_Manufacturing)
+[House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 
 #
 
