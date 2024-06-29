@@ -127,7 +127,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Modern Luxury House](https://github.com/sourceduty/House_Design/assets/123030236/7245e548-05ee-4fa8-8879-e806b6fb539c)
+![Futuristic Triangular Desert House](https://github.com/sourceduty/House_Design/assets/123030236/758d86f1-21d3-4afe-b0c8-58e740535a0a)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
