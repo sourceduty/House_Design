@@ -58,6 +58,12 @@ The Rusty Googie Cottage is more than just an architectural marvel; it is a test
 </details>
 
 #
+
+> Alex: *"I really like to design houses, cottages and other buildings."*
+
+> "The Rusty Googie Cottage and Roof Waterfalls are my favorites."
+
+#
 ### Related Links
 
 [Modernization](https://github.com/sourceduty/Modernization)
