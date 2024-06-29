@@ -73,6 +73,21 @@ In conclusion, the Modern Floating Sphere Cottage is more than just a dwelling; 
 
 <br>
 </details>
+<details><summary>Vertical Round Copper Water House</summary>
+<br>
+
+![Vertical Round Copper Water House](https://github.com/sourceduty/House_Design/assets/123030236/ba7fd7c2-b402-47ca-a6a5-96ce0cfbe3d4)
+
+The Vertical Round Copper Water House presents a striking architectural concept that blends modern design with natural elements. The structure's cylindrical shape and sleek copper exterior create a captivating visual, reflecting sunlight and the surrounding landscape. The copper cladding not only adds to the aesthetic appeal but also offers durability and weather resistance, making it an ideal material for a structure partially submerged in water. This choice of material allows the house to harmoniously interact with the water, creating an almost seamless transition between the building and its aquatic environment.
+
+The house's location on a serene body of water enhances its tranquil and secluded ambiance. Surrounded by rolling hills and lush greenery, the setting offers a perfect retreat from the hustle and bustle of urban life. The water's calm surface mirrors the structure, doubling its visual impact and creating a mesmerizing effect. The design appears to float effortlessly, giving it a light and ethereal quality despite its robust construction. This interaction with the natural surroundings highlights the house's minimalist yet sophisticated aesthetic, emphasizing simplicity and elegance.
+
+Inside, the Vertical Round Copper Water House likely features panoramic views from every angle, thanks to its circular design and extensive use of glass. These expansive windows not only flood the interior with natural light but also provide uninterrupted views of the picturesque landscape and water. The interior design probably follows a modern, minimalist approach, using natural materials and neutral tones to complement the exterior and the surrounding environment. This design philosophy creates a harmonious and calming living space that feels both luxurious and grounded.
+
+Furthermore, the house's design incorporates sustainable and eco-friendly elements. Copper is a recyclable material with a long lifespan, reducing the need for frequent replacements or repairs. The structure's interaction with the water could also suggest the use of innovative technologies for heating, cooling, and energy generation, making it a model for environmentally conscious living. Overall, the Vertical Round Copper Water House stands as a testament to how contemporary architecture can blend seamlessly with nature, offering both aesthetic beauty and functional living in a sustainable manner.
+
+<br>
+</details>
 
 #
 
