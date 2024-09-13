@@ -1,5 +1,9 @@
 ![Tropical Stainless Steel House](https://github.com/sourceduty/House_Design/assets/123030236/10abc3ac-6316-4088-b839-4a705e1111b0)
 
+> Create, plan and update house designs using DALL-E 3.
+
+#
+
 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design) specializes in providing comprehensive guidance on enhancing the exterior appearance of homes. It covers various aspects, including color palettes, architectural styles, landscaping concepts, outdoor fixtures, and sustainability practices, focusing solely on exterior design elements. This specialized service offers personalized recommendations based on users' preferences, architectural features, location, and desired atmosphere. House Design also suggests using digital tools for visualization, like architectural visualization software or online design platforms, and promotes eco-friendly design practices. Additionally, it provides advice on maintaining the exterior of homes to ensure they remain beautiful and functional year-round.
 
 House Design's specialized GPT offers a range of benefits condensed into focused, effective advice. Firstly, it provides personalized recommendations that cater to individual preferences and design visions, ensuring that each suggestion aligns perfectly with the homeowner's aesthetic goals and the architectural features of their home. This customization extends to every aspect of exterior house design, from choosing color schemes to planning landscaping.
@@ -135,6 +139,8 @@ Sustainability is a key consideration in modern landscape design, with a growing
 [House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Building Plan](https://github.com/sourceduty/Building_Plan)
 
 #
 
