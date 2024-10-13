@@ -150,7 +150,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Rusty Googie Cottage](https://github.com/user-attachments/assets/da1e85b0-e955-43f3-81f1-7eac7c560092)
+![Modern Floating Sphere Cottage](https://github.com/user-attachments/assets/4cd05d79-5bdb-4004-804b-3db2979a08cf)
 
 #
 
