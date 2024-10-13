@@ -150,7 +150,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Modern Floating Sphere Cottage](https://github.com/user-attachments/assets/4cd05d79-5bdb-4004-804b-3db2979a08cf)
+![Modern Cave House Concept](https://github.com/user-attachments/assets/e1c2166f-c9bd-4fe2-bfc7-ff3124432d97)
 
 #
 
