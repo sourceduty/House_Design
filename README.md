@@ -143,6 +143,8 @@ Sustainability is a key consideration in modern landscape design, with a growing
 [Building Plan](https://github.com/sourceduty/Building_Plan)
 <br>
 [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
 
 #
 
