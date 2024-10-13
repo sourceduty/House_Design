@@ -150,6 +150,10 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
+![Rusty Googie Cottage](https://github.com/user-attachments/assets/da1e85b0-e955-43f3-81f1-7eac7c560092)
+
+#
+
 ![Futuristic Triangular Desert House](https://github.com/sourceduty/House_Design/assets/123030236/758d86f1-21d3-4afe-b0c8-58e740535a0a)
 
 ***
