@@ -1,4 +1,4 @@
-![House Design](https://github.com/user-attachments/assets/a1925176-ceff-4b61-8d8f-264c4777489a)
+![House Design](https://github.com/user-attachments/assets/88d6ec58-f92b-4d17-8046-dd19f2859ffa)
 
 > Create, plan and update house, building and cottage designs using DALL-E 3.
 
