@@ -1,6 +1,6 @@
 ![Tropical Stainless Steel House](https://github.com/sourceduty/House_Design/assets/123030236/10abc3ac-6316-4088-b839-4a705e1111b0)
 
-> Create, plan and update house designs using DALL-E 3.
+> Create, plan and update house, building and cottage designs using DALL-E 3.
 
 #
 
