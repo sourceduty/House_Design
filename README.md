@@ -44,18 +44,14 @@ Furthermore, the placement of the garage in a forest setting reflects a thoughtf
 
 <br>
 </details>
-<details><summary>Rusty Googie Cottage</summary>
+<details><summary>Googie Cottages</summary>
 <br>
 
 ![Rusty Googie Cottage](https://github.com/sourceduty/House_Design/assets/123030236/aaaf1029-12f9-4992-895d-2b522d481966)
 
-The Rusty Googie Cottage, perched on the edge of a tranquil lake, is a striking example of retro-futuristic architecture that merges seamlessly with its natural surroundings. Its design, characterized by sweeping curves, bold angles, and expansive glass surfaces, evokes a sense of nostalgia for mid-20th century optimism while embracing the rustic aesthetic of weathered steel. The structure's curved rooflines and large, domed observatory-like tower suggest a futuristic vision that blends harmoniously with the organic forms of the surrounding pine trees and the rocky shoreline.
+Modern googie cottage designs blend the futuristic and the nostalgic, characterized by bold geometric shapes, vibrant colors, and an integration of organic elements. These structures often feature large windows and open spaces that invite natural light, creating a sense of harmony with the environment. The use of unconventional materials, such as plywood and metal, alongside traditional cottage features like sloped roofs and stone accents, gives these homes a unique charm. The design emphasizes functionality while embracing whimsical elements, such as cantilevered roofs and playful landscaping, making googie cottages not just residences but also artistic statements that celebrate mid-century modern aesthetics.
 
-One of the most captivating elements of the Rusty Googie Cottage is its extensive use of glass, which not only enhances the aesthetic appeal but also allows for panoramic views of the serene lake and the dense forest beyond. The floor-to-ceiling windows create a seamless connection between the interior and exterior spaces, flooding the rooms with natural light and offering a constantly changing tableau of nature's beauty. This design choice exemplifies the Googie style's emphasis on transparency and fluidity, creating an open, airy ambiance within the cottage.
-
-The choice of rusted steel as the primary material for the cottage's exterior cladding is both practical and visually impactful. Over time, the steel develops a rich, textured patina that complements the earthy tones of the surrounding landscape. This material not only provides durability and resistance to the elements but also gives the cottage a warm, inviting appearance that contrasts with the sleek, futuristic lines of its design. The interplay between the rustic material and the modern form creates a unique and dynamic visual experience that is both timeless and contemporary.
-
-The Rusty Googie Cottage is more than just an architectural marvel; it is a testament to the harmonious coexistence of human ingenuity and natural beauty. Its design pays homage to the mid-century modernist movement while embracing sustainable and contextually appropriate materials. This cottage serves as a perfect retreat, offering a blend of futuristic innovation and rustic charm that encourages reflection and appreciation of the natural world. It stands as a reminder that thoughtful design can create spaces that are both aesthetically pleasing and environmentally conscious.
+![Tropical Orange Googie Cottage](https://github.com/user-attachments/assets/fc643924-3880-446a-a1d6-de26b6df2ef4)
 
 <br>
 </details>
