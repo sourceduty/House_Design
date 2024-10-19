@@ -112,7 +112,7 @@ In summary, the Ocean Pole House stands as a testament to innovative design, sus
 
 > *"The Rusty Googie Cottage and houses with roof waterfalls are my favorites."*
 
-> "*DALL-E might not like red pool water?*"
+> "*DALL-E 3 might not like red pool water?.*"
 
 #
 ### Landscape Design
