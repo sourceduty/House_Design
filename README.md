@@ -153,13 +153,11 @@ Sustainability is a key consideration in modern landscape design, with a growing
 [Birds Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer/tree/main)
 
 #
-
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
-
 #
-
+![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/0812eb9c-89e5-4867-a3b2-1f9faa0bfd7f)
+#
 ![Modern Cave House Concept](https://github.com/user-attachments/assets/e1c2166f-c9bd-4fe2-bfc7-ff3124432d97)
-
 #
 
 ![Futuristic Triangular Desert House](https://github.com/sourceduty/House_Design/assets/123030236/758d86f1-21d3-4afe-b0c8-58e740535a0a)
