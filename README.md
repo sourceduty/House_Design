@@ -154,7 +154,7 @@ Sustainability is a key consideration in modern landscape design, with a growing
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 #
-![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/0812eb9c-89e5-4867-a3b2-1f9faa0bfd7f)
+![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/91208540-193c-480e-ae4c-2164de7410c3)
 #
 ![Houses](https://github.com/user-attachments/assets/f74bda60-0655-4bfd-8d53-72b4c3ed96df)
 #
