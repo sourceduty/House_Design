@@ -10,6 +10,7 @@ In addition to aesthetic advice, this GPT also integrates digital visualization 
 
 #
 ![Houses](https://github.com/user-attachments/assets/1fc6afc0-4671-4d93-8fe9-301183fb7c18)
+![House Design](https://github.com/user-attachments/assets/88d6ec58-f92b-4d17-8046-dd19f2859ffa)
 
 #
 ### House Design Concepts
@@ -27,10 +28,7 @@ In terms of structural engineering, the implementation of a waterfall roof requi
 
 The aesthetic appeal of a waterfall roof design can also significantly enhance the value and prestige of a property. It can serve as a unique selling point, distinguishing the building from conventional architectural designs. This feature is particularly appealing in luxury residences, high-end resorts, and corporate headquarters, where an emphasis on innovative and sustainable design is paramount. The waterfall roof not only reflects a commitment to aesthetic excellence but also underscores a dedication to environmental consciousness, making it a coveted feature in modern architecture.
 
-#
-
 ![Fallingwater](https://github.com/user-attachments/assets/5df544e8-dba7-406a-b1b5-0b4f16614887)
-![House Design](https://github.com/user-attachments/assets/88d6ec58-f92b-4d17-8046-dd19f2859ffa)
 
 <br>
 </details>
