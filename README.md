@@ -147,7 +147,9 @@ Sustainability is a key consideration in modern landscape design, with a growing
 <br>
 [GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
 <br>
-[Birds Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer/tree/main)
+[Birds Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
 
 #
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
