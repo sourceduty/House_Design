@@ -6,9 +6,11 @@
 
 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design) specializes in providing expert guidance on exterior home design, offering tailored advice on how to enhance the look and functionality of homes, buildings, cottages, or barns. By focusing on outdoor elements like color palettes, architectural styles, landscaping, and sustainable practices, it helps users create cohesive and visually appealing exteriors. For example, if someone wants to update their cottage with a coastal look, the GPT might recommend a light blue and white color scheme, natural wood accents, and the addition of beach grasses and sand-colored stone walkways to complement the style.
 
-![Forest Glass Garage](https://github.com/sourceduty/House_Design/assets/123030236/bbece8fa-7b19-4f61-bc8b-6811014fe3b4)
-
 In addition to aesthetic advice, this GPT also integrates digital visualization tools, enabling users to experiment with various designs before committing to them. It might suggest using architectural software or online platforms to create mock-ups or mood boards, allowing homeowners to visualize changes like adding a modern front porch or incorporating solar panels. By emphasizing sustainability, this GPT promotes eco-friendly practices, such as installing rain gardens or choosing energy-efficient materials for roofing and siding, to ensure that users' homes are both beautiful and environmentally conscious.
+
+#
+
+![Forest Glass Garage](https://github.com/sourceduty/House_Design/assets/123030236/bbece8fa-7b19-4f61-bc8b-6811014fe3b4)
 
 #
 ### House Design Concepts
