@@ -108,7 +108,7 @@ In summary, the Ocean Pole House stands as a testament to innovative design, sus
 
 #
 
-> Alex: *"I'm better than your at designing houses, cottages and other buildings."*
+> Alex: *"I'm better than you at designing houses, cottages and other buildings."*
 
 > *"The Rusty Googie Cottage and houses with roof waterfalls are my favorites."*
 
