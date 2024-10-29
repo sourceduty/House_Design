@@ -114,6 +114,10 @@ In summary, the Ocean Pole House stands as a testament to innovative design, sus
 
 > "*DALL-E 3 might not like red pool water?.*"
 
+> "*I would design houses, buildings, and properties all day, every day—if only they would sell.*"
+
+> "*Nobody will buy an apple shaped schoolhouse.*"
+
 #
 ### Landscape Design
 
