@@ -11,7 +11,7 @@ In addition to aesthetic advice, this GPT also integrates digital visualization 
 #
 ### Remote Island Home
 
-![Uploading Money Island.png…]()
+![Money Island](https://github.com/user-attachments/assets/f60b842e-6576-4b56-91fc-b23d8ed65af2)
 
 The cost of sustaining life on a remote island for 50 years totals approximately $148,475.63. This includes essential categories such as food, water, shelter, clothing, and medical supplies. Food, the primary requirement, costs an estimated $10,430 for 10.43 metric tons of dry goods, while water needs, including purification systems, add another $5,045.63. Shelter construction and maintenance require durable materials and tools, estimated at $50,000. Clothing for the entire duration, calculated at 250 sets per person, amounts to $12,500, ensuring basic comfort and durability. Medical supplies and first aid provisions are projected to cost $10,000, sufficient for general health and emergencies.
 
