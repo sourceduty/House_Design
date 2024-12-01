@@ -178,6 +178,8 @@ Sustainability is a key consideration in modern landscape design, with a growing
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Property Locale](https://github.com/sourceduty/Property_Locale)
+<br>
+[BNB Architect](https://github.com/sourceduty/BNB_Architect)
 
 #
 ➡️ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
