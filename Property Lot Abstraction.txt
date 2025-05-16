@@ -1,0 +1,92 @@
+Property Layout:
+|
++-- Main House
+|   |
+|   +-- Driveway
+|   |
+|   +-- Garage
+|
++-- Backyard Lawn
+|
++-- Pergola/Patio
+|
++-- Garden Area
+
+-------------------------------------------
+
+Property Layout:
+|
++-- Main House
+|   |
+|   +-- Entryway
+|   +-- Living Room
+|   +-- Kitchen
+|   +-- Dining Room
+|   +-- Bedrooms
+|       |
+|       +-- Master Bedroom
+|       +-- Guest Bedroom 1
+|       +-- Guest Bedroom 2
+|   +-- Bathrooms
+|       |
+|       +-- Master Bathroom
+|       +-- Guest Bathroom
+|   +-- Office/Study
+|   +-- Basement
+|   +-- Garage
+|       |
+|       +-- Vehicle Storage
+|       +-- Workshop Area
+|
++-- Driveway
+|   |
+|   +-- Front Parking Area
+|   +-- Side Parking Area
+|
++-- Backyard
+|   |
+|   +-- Main Lawn
+|   +-- Children's Play Area
+|   +-- Outdoor Seating
+|       |
+|       +-- Patio
+|       +-- Pergola
+|   +-- Swimming Pool
+|       |
+|       +-- Poolside Lounge
+|       +-- Changing Rooms
+|
++-- Garden Area
+|   |
+|   +-- Flower Garden
+|   +-- Vegetable Garden
+|   +-- Greenhouse
+|   +-- Water Feature
+|       |
+|       +-- Fountain
+|       +-- Small Pond
+|
++-- Recreation Area
+|   |
+|   +-- Sports Court
+|       |
+|       +-- Tennis Court
+|       +-- Basketball Court
+|   +-- Gym Area (Outdoor/Indoor)
+|   +-- Fire Pit Area
+|
++-- Guesthouse
+|   |
+|   +-- Living Room
+|   +-- Kitchenette
+|   +-- Bedroom
+|   +-- Bathroom
+|
++-- Additional Features
+    |
+    +-- Walking Path
+    +-- Outdoor Lighting
+    +-- Utility Area
+        |
+        +-- Storage Shed
+        +-- Trash/Recycling Area
