@@ -12,35 +12,11 @@ Landscaping design around house and vehicle storage should enhance both the visu
 
 [Landscape Terminal](https://chatgpt.com/g/g-67d1e2d3439081919cb2798683bc3f82-timelapse-program) creates detailed and adaptable landscape maintenance programs tailored to the needs of property managers, facility operators, and landscaping professionals. It starts by gathering key site information—such as regional climate, property type, plant inventory, and specific landscape goals—through a step-by-step, multiple-choice process. Based on this data, it generates structured, calendar-based maintenance plans formatted for terminal-style outputs, including seasonal tasks, turf care, irrigation schedules, plant health monitoring, pest control, and hardscape maintenance. It also provides support with diagnostic advice, editable templates, and recommendations for eco-friendly techniques, tools, and industry best practices, ensuring the programs are practical, sustainable, and easy to implement.
 
-<br>
-
-```
-=========================================
-||         LANDSCAPE TERMINAL          ||
-||    Property Maintenance Interface   ||
-=========================================
-
-Please select an option:
-
-[1] Create New Maintenance Program
-[2] Load Existing Program
-[3] View Calendar Schedule
-[4] Plant & Turf Care Diagnostics
-[5] Irrigation System Manager
-[6] Pest & Weed Control Console
-[7] Hardscape Maintenance Logs
-[8] Equipment & Tool Inventory
-[9] Eco-Friendly Practice Guide
-[0] Exit
-
->> Enter your choice:
-```
-
 #
 
 ![Body Pool Concept Top View](https://github.com/user-attachments/assets/17ed1616-b82a-47bd-af86-215bf0f6003c)
 
-Landscaping design plays a critical role in creating a harmonious environment around boat storage areas while ensuring that functionality is not compromised. Boat storage, whether it’s an open space, a boatport, or an enclosed storage building, requires careful integration with the surrounding landscape to enhance both its aesthetic appeal and usability. When designing for boat storage, the location should be considered in relation to water access, wind conditions, and potential flooding or storm damage. For a functional boat storage space, a paved or compacted gravel area ensures smooth movement of boats in and out while preventing any damage to the boat from uneven ground. If the storage area is open, consider incorporating windbreaks or privacy hedges to shield the space from strong winds and reduce the potential for debris buildup around the boat. Landscaping elements like low-maintenance shrubs, grasses, and trees can be strategically planted to soften the hard lines of the storage structure and visually blend the space into the surrounding environment. Additionally, it’s wise to implement proper drainage solutions around the boat storage area to prevent water pooling that could affect the boat's condition or the surrounding plants.
+Landscaping design plays a critical role in creating a harmonious environment around boat storage areas while ensuring that functionality is not compromised. Boat storage, whether it’s an open space, a boatport, or an enclosed storage building, requires careful integration with the surrounding landscape to enhance both its aesthetic appeal and usability. When designing for boat storage, the location should be considered in relation to water access, wind conditions, and potential flooding or storm damage. For a functional boat storage space, a paved or compacted gravel area ensures smooth movement of boats in and out while preventing any damage to the boat from uneven ground.
 
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer) was developed to assist the user create high-quality bird's eye view images of landscape designs. It uses DALL·E 3 to generate detailed aerial visuals of outdoor spaces such as gardens, backyards, parks, and urban green areas. The tool is tailored to help users visualize their landscape concepts by incorporating specific elements like walkways, patios, ponds, water features, and various plant types. By focusing on layout, color, texture, and spatial balance from a top-down perspective, Bird's Eye Visualizer brings design ideas to life, allowing for clearer planning and aesthetic refinement.
 
@@ -63,6 +39,12 @@ A luxury [megamansion](https://chatgpt.com/g/g-680be1fab4b88191a8ca125be437094d-
 Vehicle storage and architecture intersect in ways that shape both functionality and design aesthetics. As cities grow more congested and space becomes a premium commodity, architectural solutions for vehicle storage—such as underground garages, automated parking systems, and multi-level car parks—are increasingly vital. These structures must not only accommodate a high volume of vehicles but also integrate seamlessly into the urban landscape. Architects are challenged to design spaces that are efficient, safe, and sustainable, often incorporating features like green roofs, solar panels, and natural ventilation. The goal is to reduce environmental impact while optimizing space usage, especially in mixed-use developments where residential, commercial, and transport needs converge.
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) specializes in helping users create personalized and visually striking custom car images. It guides users through a step-by-step, multiple-choice process to understand their preferences in style, color, body type, modifications, and more. By combining automotive design knowledge with creative flair, it generates unique car visuals tailored to the user's vision—whether that's a futuristic concept, a modified street racer, or a luxury restomod. Its friendly and enthusiastic approach ensures users feel involved and inspired throughout the customization journey.
+
+#
+
+![HVAC Simulation](https://github.com/user-attachments/assets/9bfa75b9-0612-4ff1-ad29-b1f0003c84dd)
+
+[HVAC Simulation](https://chatgpt.com/g/g-684e4855cd24819182c0cfbe61b742da-hvac-simulation) specializes in simulating HVAC (Heating, Ventilation, and Air Conditioning) systems for a wide range of building types and sizes—from small residential homes to large industrial facilities. It enables detailed analysis of HVAC configurations by allowing users to specify factors like building layout, square footage, climate zone, equipment types (e.g., chillers, VRFs, rooftop units), airflow rates, ductwork design, and control strategies. The GPT can calculate heating and cooling loads, model system behavior under different outdoor conditions, estimate energy consumption, and suggest optimizations for efficiency and indoor air quality. It also supports generating system schematics, performance charts, and maintenance schedules, making it a robust tool for HVAC design, diagnostics, and strategic planning.
 
 #
 
