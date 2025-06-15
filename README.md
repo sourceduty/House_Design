@@ -42,7 +42,7 @@ Vehicle storage and architecture intersect in ways that shape both functionality
 
 #
 
-![HVAC Simulation](https://github.com/user-attachments/assets/9bfa75b9-0612-4ff1-ad29-b1f0003c84dd)
+![HVAC](https://github.com/user-attachments/assets/01bd0135-a14e-4317-b7af-98dd37290e10)
 
 [HVAC Simulation](https://chatgpt.com/g/g-684e4855cd24819182c0cfbe61b742da-hvac-simulation) specializes in simulating HVAC (Heating, Ventilation, and Air Conditioning) systems for a wide range of building types and sizes—from small residential homes to large industrial facilities. It enables detailed analysis of HVAC configurations by allowing users to specify factors like building layout, square footage, climate zone, equipment types (e.g., chillers, VRFs, rooftop units), airflow rates, ductwork design, and control strategies. The GPT can calculate heating and cooling loads, model system behavior under different outdoor conditions, estimate energy consumption, and suggest optimizations for efficiency and indoor air quality. It also supports generating system schematics, performance charts, and maintenance schedules, making it a robust tool for HVAC design, diagnostics, and strategic planning.
 
