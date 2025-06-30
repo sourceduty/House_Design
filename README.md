@@ -56,3 +56,5 @@ Vehicle storage and architecture intersect in ways that shape both functionality
 [Architecture Construction](https://github.com/sourceduty/Architecture_Construction)
 <br>
 [Bioengineering](https://github.com/sourceduty/Bioengineering)
+<br>
+[Tropical Architect](https://chatgpt.com/g/g-68625cae09a081919afdc6a53fd38656-tropical-architect)
