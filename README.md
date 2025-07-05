@@ -63,3 +63,5 @@ Architecture, by nature, cannot be patented or copyright protected, making it an
 [Bioengineering](https://github.com/sourceduty/Bioengineering)
 <br>
 [Tropical Architect](https://chatgpt.com/g/g-68625cae09a081919afdc6a53fd38656-tropical-architect)
+<br>
+[3D House](https://chatgpt.com/g/g-6869ab5766388191bd58fcaab80ca8cb-3d-house)
